@@ -1,3 +1,6 @@
+![Screenshot 2024-04-13 084757](https://github.com/manogarans/Poisson_distribution/assets/139331782/99b9863f-c2c7-4848-97ab-8f3bc77f86f1)
+
+
 # Fitting Poisson  distribution
 # Aim : 
 
