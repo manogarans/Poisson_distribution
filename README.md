@@ -1,5 +1,3 @@
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Poisson_distribution/assets/139331782/99b9863f-c2c7-4848-97ab-8f3bc77f86f1)
-
 
 # Fitting Poisson  distribution
 # Aim : 
@@ -32,6 +30,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+### DEVELOPED BY : MANOGARAN S
+### REG NO : 212223240081
 ```python
 import numpy as np
 import math
